@@ -1,0 +1,38 @@
+{
+	"pack": {
+		"pack_format": 26,
+		"supported_formats": {
+			"min_inclusive": 15,
+			"max_inclusive": 28
+		},
+		"description": [
+			{
+				"text": "Minecraft models made ",
+				"bold": false,
+				"color": "#ff9999"
+			},
+			{
+				"text": "3D",
+				"bold": true
+			},
+			{
+				"text": "\nby ",
+				"color": "#aaaaaa",
+				"bold": false
+			},
+			{
+				"text": "m-sarabi/Funzen",
+				"color": "#59dd48",
+				"bold": false,
+				"clickEvent": {
+					"action": "open_url",
+					"value": "https://github.com/m-sarabi/vanilla3d"
+				},
+				"hoverEvent": {
+					"action": "show_text",
+					"contents": "Go to GitHub"
+				}
+			}
+		]
+	}
+}
