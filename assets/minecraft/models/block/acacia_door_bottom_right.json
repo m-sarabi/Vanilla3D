@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
 	"texture_size": [16, 32],
 	"textures": {
 		"bottom": "block/acacia_door_bottom"
